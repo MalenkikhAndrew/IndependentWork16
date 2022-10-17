@@ -1,0 +1,27 @@
+[
+  {
+    "ProductСode": 1,
+    "ProductName": "Креветка в винном соусе Бужеле 1897г",
+    "ProductPrice": 57886.27
+  },
+  {
+    "ProductСode": 2,
+    "ProductName": "Лапы себирского медведя с лесными грибами",
+    "ProductPrice": 84545.89
+  },
+  {
+    "ProductСode": 3,
+    "ProductName": "Запеченая корюшка покрытая золотой икрой",
+    "ProductPrice": 958446
+  },
+  {
+    "ProductСode": 4,
+    "ProductName": "Колифорнийский орел с отрубями и соусом Чили",
+    "ProductPrice": 20122001.87
+  },
+  {
+    "ProductСode": 5,
+    "ProductName": "Суп из трехсотлетней черепахи украшенной драгоценными камнями",
+    "ProductPrice": 100000000
+  }
+]
